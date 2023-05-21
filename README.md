@@ -1,4 +1,4 @@
-### Hola! 👋 👋🏾 
+### Hola ! 👋 👋🏾 
 
 Mi nombre es Andrés y soy politologo, especializado en temas de datos. Soy  autodidacta, perseverante y curioso. Trato todos los días de aprener algo nuevo, aportar mi mirada y proponer soluciones a los problemas, aportando valor al negocio. 
 
