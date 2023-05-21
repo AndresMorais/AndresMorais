@@ -1,6 +1,11 @@
+### Hola! 👋 👋🏾 
+
+Mi nombre es Andrés y soy politologo, especializado en temas de datos. Soy  autodidacta, perseverante y curioso. Trato todos los días de aprener algo nuevo, aportar mi mirada y proponer soluciones a los problemas, aportando valor al negocio. 
+
+ <a href="https://www.linkedin.com/in/andres-de-campos-morais/">LinkedIn</a> 💼
+<!--
 ### Hi there 👋
 
-<!--
 **AndresMorais/AndresMorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
